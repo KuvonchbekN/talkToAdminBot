@@ -1,0 +1,61 @@
+[ {
+  "text" : "Hi",
+  "chatId" : "528085268",
+  "firstName" : "Quvonchbek",
+  "username" : "KuvonchbekN",
+  "messageTime" : 1640821890493,
+  "messageId" : "398",
+  "replyMessage" : "hey harry potter",
+  "active" : true,
+  "replied" : true
+}, {
+  "text" : "Watuuuppp",
+  "chatId" : "528085268",
+  "firstName" : "Quvonchbek",
+  "username" : "KuvonchbekN",
+  "messageTime" : 1640821931282,
+  "messageId" : "402",
+  "replyMessage" : "heyyyyyy",
+  "active" : true,
+  "replied" : true
+}, {
+  "text" : "Your bot is shit",
+  "chatId" : "625039344",
+  "firstName" : "anonymous",
+  "username" : null,
+  "messageTime" : 1640822141622,
+  "messageId" : "411",
+  "replyMessage" : "well still improving it day by day",
+  "active" : true,
+  "replied" : true
+}, {
+  "text" : "I love your bot so much",
+  "chatId" : "625039344",
+  "firstName" : "anonymous",
+  "username" : null,
+  "messageTime" : 1640825128425,
+  "messageId" : "495",
+  "replyMessage" : "thank you for the support i really appreciate it bro",
+  "active" : true,
+  "replied" : true
+}, {
+  "text" : "\uD83D\uDE0D\uD83D\uDE0D\uD83D\uDE0D\uD83D\uDE0D",
+  "chatId" : "5058446291",
+  "firstName" : "\uD83C\uDF88",
+  "username" : null,
+  "messageTime" : 1640886339690,
+  "messageId" : "543",
+  "replyMessage" : "ilu",
+  "active" : true,
+  "replied" : true
+}, {
+  "text" : "Husàn blmasn",
+  "chatId" : "528085268",
+  "firstName" : "Quvonchbek",
+  "username" : "KuvonchbekN",
+  "messageTime" : 1641716844382,
+  "messageId" : "600",
+  "replyMessage" : "oki doki",
+  "active" : true,
+  "replied" : true
+} ]

@@ -1,0 +1,36 @@
+[ {
+  "username" : null,
+  "chatId" : "625039344",
+  "firstName" : "anonymous",
+  "phoneNumber" : "998973152477",
+  "active" : true,
+  "admin" : false
+}, {
+  "username" : "ShukhratjonMirzayev",
+  "chatId" : "5097735057",
+  "firstName" : "Shuxrat",
+  "phoneNumber" : "+998945269176",
+  "active" : true,
+  "admin" : true
+}, {
+  "username" : "KuvonchbekN",
+  "chatId" : "528085268",
+  "firstName" : "Quvonchbek",
+  "phoneNumber" : "998993352414",
+  "active" : true,
+  "admin" : false
+}, {
+  "username" : "Mirzabek_70",
+  "chatId" : "1473414515",
+  "firstName" : "Mirzabek",
+  "phoneNumber" : "",
+  "active" : true,
+  "admin" : true
+}, {
+  "username" : null,
+  "chatId" : "5058446291",
+  "firstName" : "\uD83C\uDF88",
+  "phoneNumber" : "",
+  "active" : true,
+  "admin" : false
+} ]
